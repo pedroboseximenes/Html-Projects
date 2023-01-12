@@ -1,4 +1,4 @@
-# Html-Projects
+# Web-Projects
 
 -Learning Html/Css and making some projects web!
 
